@@ -31,3 +31,6 @@ docker run -d --name flaskcont -p 8081:8000 flaskapp
 ```docker
 docker ps -a
 ```
+### Jenkins CI/CD Flow:
+
+![ProjectArchitecture](./docs/flow.png)
