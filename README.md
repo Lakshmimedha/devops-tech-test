@@ -33,4 +33,4 @@ docker ps -a
 ```
 ### Jenkins CI/CD Flow:
 
-![ProjectArchitecture](./docs/flow.png)
+![ProjectArchitecture](./docs/flow.PNG)
