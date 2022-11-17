@@ -31,6 +31,11 @@ docker run -d --name flaskcont -p 8081:8000 flaskapp
 ```docker
 docker ps -a
 ```
+### Access your application through below IP
+```docker
+http://4.246.202.104:8081/
+````
+
 ## Jenkins CI/CD Flow:
 
 ![ProjectArchitecture](./docs/flow.PNG)
