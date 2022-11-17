@@ -1,7 +1,6 @@
-# Deploy application using below steps
+# Deploy flask application by using below steps
 
 ## Clone the code
-Clone the code first
 
 ```bash
 git clone <RepoURL>
