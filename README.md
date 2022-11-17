@@ -23,4 +23,4 @@
 ## Bonus points
 - If you can setup a Git branching strategy.
 - If you can document all aspects of your code, in the README and within the code itself.
-- If you can provide a PNG diagram of your infrastructure.
+- If you can provide a PNG diagram of your infrastructure
